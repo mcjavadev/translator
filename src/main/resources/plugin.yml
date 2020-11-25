@@ -1,0 +1,6 @@
+name: Me.javadev.translatorplugin
+version: ${project.version}
+main: translatorplugin.me.javadev.translatorplugin.Main
+api-version: 1.16
+load: STARTUP
+authors: [Pro_fortnyte_gemer]
